@@ -6,6 +6,6 @@ end
 
 def list_dwarves(array)
 array.each do |dwarves|
-  puts "#{dwarves.count}. #{dwarves}" 
+  puts dwarves
 end
 end
