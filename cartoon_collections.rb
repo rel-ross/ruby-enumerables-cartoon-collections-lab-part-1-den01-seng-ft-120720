@@ -6,8 +6,7 @@ end
 
 def list_dwarves(array)
 array.each_with_index {|dwarf, index|
-p index
-p dwarf
-}
+puts "#{index}. #{dwarf}
+
 
 end
